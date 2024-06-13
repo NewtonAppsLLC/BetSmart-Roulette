@@ -1,7 +1,7 @@
 # BetSmart-Roulette
 Elevate your roulette game with BetSmart Roulette! Get detailed statistics, insights, and smarter betting strategies. Make informed decisions and improve your odds today!
 
-**Privacy Policy**
+# Privacy Policy
 
 This privacy policy applies to the BetSmart Roulette app (hereby referred to as "Application") for mobile devices that was created by Newton Apps LLC (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
 
@@ -70,7 +70,7 @@ If you have any questions regarding privacy while using the Application, or have
 
 * * *
 
-**Terms & Conditions**  
+# Terms & Conditions
 
 These terms and conditions applies to the BetSmart Roulette app (hereby referred to as "Application") for mobile devices that was created by Newton Apps LLC (hereby referred to as "Service Provider") as a Free service.
 
